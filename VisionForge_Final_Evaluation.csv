@@ -1,0 +1,4 @@
+Mode,Average_Time_ms,Std_Dev_ms,Average_CLIP,GPU_Memory_MB
+balanced,403.9667,8.9389,0.3358,3678.7
+fast,318.4,49.1902,0.3445,3678.7
+quality,562.3,1.4422,0.3094,3678.7
