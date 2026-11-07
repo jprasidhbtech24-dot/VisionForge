@@ -3,9 +3,9 @@
 ## Current repository state
 
 - Submission repository: https://github.com/jprasidhbtech24-dot/VisionForge
-- Work on `feat/adaptive-resource-comparison`; it tracks `fork/feat/adaptive-resource-comparison`.
-- Inspected starting commit: `822e131`. Local `main` is at `61ce19b`, an ancestor of the feature branch; review the final graph and diff before fast-forwarding main.
-- The root `.gitignore` was present as a local untracked file and is included in this reviewed change set with its existing required rules preserved.
+- Development branch: `feat/adaptive-resource-comparison`, tracking `fork/feat/adaptive-resource-comparison`.
+- The final reviewed feature branch and personal `main` were pushed to the selected repository at the same release commit using a fast-forward. Verify the current commit hash with Git before submitting.
+- The initial source snapshot inspected for this work was commit `822e131`; the root `.gitignore` was present locally and has been included with its required rules preserved.
 - Never commit access tokens, private keys, `.env` files or local model weights.
 
 ## Before publishing
@@ -19,7 +19,7 @@
 
 ## GitHub release
 
-Push the reviewed feature branch to the selected personal repository:
+For any future changes, push the reviewed feature branch to the selected personal repository:
 
 ```powershell
 git push fork feat/adaptive-resource-comparison

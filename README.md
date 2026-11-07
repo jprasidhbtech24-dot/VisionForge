@@ -131,4 +131,4 @@ This performs five prompts × four requested profiles × two post-processing set
 
 ## Repository and branch
 
-Submission repository: [jprasidhbtech24-dot/VisionForge](https://github.com/jprasidhbtech24-dot/VisionForge). The implementation inspected for this documentation update is on `feat/adaptive-resource-comparison`, starting at commit `822e131`. Confirm the final pushed commit and the branch selected by the evaluator before submission.
+Submission repository: [jprasidhbtech24-dot/VisionForge](https://github.com/jprasidhbtech24-dot/VisionForge). The implementation is maintained on `feat/adaptive-resource-comparison` and the submission-ready `main` branch. Check the latest commit hash and confirm the branch selected by the evaluator before submission.
